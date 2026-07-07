@@ -1,0 +1,15 @@
+rly_file = "Stourbridge.rly"
+ttb_files = [ "Stourbridge_2026-03-11.ttb",]
+img_files = [ "Stourbridge.bmp",]
+doc_files = [ "Stourbridge.md",]
+release_date = "2026-07-07"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2026
+display_name = "Stourbridge"
+name = "Stourbridge"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
